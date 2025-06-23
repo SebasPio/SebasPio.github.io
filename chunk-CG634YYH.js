@@ -1,0 +1,1 @@
+import{Fa as o,Ga as a,Ja as r,Ka as p,Z as n}from"./chunk-EIQUURGU.js";var u=(()=>{class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=n({type:e,selectors:[["app-preguntas"]],standalone:!0,features:[p],decls:2,vars:0,template:function(t,s){t&1&&(o(0,"p"),r(1,"preguntas works!"),a())}})}return e})();export{u as PreguntasComponent};
